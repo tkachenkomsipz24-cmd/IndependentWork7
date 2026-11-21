@@ -65,8 +65,7 @@ dotnet run --project IndependentWork7
 ```
 
 ### Скріншот
-
-(встав скріншот)
+![Результат виконання програми](picture.png)
 
 ## 6. Висновок
 
