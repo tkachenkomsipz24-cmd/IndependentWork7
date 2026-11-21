@@ -58,10 +58,21 @@ dotnet run --project IndependentWork7
 
 ### Результати виконання
 
-> ⚠️ Заповніть після запуску на своєму комп'ютері.
 
 ```
-(встав сюди вивід dotnet test та dotnet run)
+Build succeeded in 0,6s
+PS C:\Users\tkace\OneDrive\Desktop\Independentwork7> dotnet test
+Restore complete (0,6s)
+Independentwork7 net8.0 succeeded (2,0s) → Independentwork7\bin\Debug\net8.0\IndependentWork7.dll
+IndependentWork7.Tests net8.0 succeeded (0,9s) → IndependentWork7.Tests\bin\Debug\net8.0\Independentwork7.Tests.dll
+[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.8.2+699d445a1a (64-bit .NET 8.0.31)
+[xUnit.net 00:00:00.63] Discovering: IndependentWork7.Tests
+[xUnit.net 00:00:00.73] Discovered: IndependentWork7.Tests
+[xUnit.net 00:00:00.74] Starting: Independentwork7.Tests
+Finished: Independentwork7.Tests [xUnit.net 00:00:01.16]
+Independentwork7.Tests test net8.0 succeeded (3,0s)
+Test summary: total: 16; failed: 0; succeeded: 16; skipped: 0; duration: 2,9s
+Build succeeded in 6,8s
 ```
 
 ### Скріншот
